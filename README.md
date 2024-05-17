@@ -21,8 +21,12 @@ The repository includes detailed visualizations of the CCC analysis:
 - **Heatmaps and Dot Plots:** Illustrate the intensity and significance of the collagen-integrin interactions across different cell types.
 - **Directional Interaction Diagrams:** Provide insights into the directional nature of these interactions, highlighting the role of collagen as ligands emanating from various cell sources impacting integrin receptors.
 
-## Supplementary Materials
-Detailed tables and supplementary figures (Supplemental tables 1-3 and Figures 9A, 9B, and 9C) provide exhaustive lists of significant interactions and a comprehensive overview of the inferred CCC among PVAT cell types.
+### Averaged Heatmap of Ligand-Receptor Interactions Between Cell Types (Figure 9A)
+
+This heatmap represents the averaged interaction scores across various PVAT cell types. It highlights the predominant communication pathways facilitated by these molecules, providing a visual summary of the interaction intensities.
+
+![Averaged Heatmap](data/analysis_results/averaged_heatmap.pdf "Averaged Heatmap of Ligand-Receptor Interactions")
+
 
 ## Conclusion
 Our analysis underscores the complex nature of cell-cell communication in PVAT, with a specific focus on the mechanistic roles of collagen and integrin. This detailed examination aids in understanding the cellular interactions that contribute to the structural and functional integrity of PVAT.
