@@ -21,7 +21,7 @@ The repository includes detailed visualizations of the CCC analysis:
 - **Heatmaps and Dot Plots:** Illustrate the intensity and significance of the collagen-integrin interactions across different cell types.
 - **Directional Interaction Diagrams:** Provide insights into the directional nature of these interactions, highlighting the role of collagen as ligands emanating from various cell sources impacting integrin receptors.
 
-### Averaged Heatmap of Ligand-Receptor Interactions Between Cell Types (Figure 9A)
+### Averaged Heatmap of Ligand-Receptor Interactions Between Cell Types
 
 This heatmap represents the averaged interaction scores across various PVAT cell types. It highlights the predominant communication pathways facilitated by these molecules, providing a visual summary of the interaction intensities.
 
