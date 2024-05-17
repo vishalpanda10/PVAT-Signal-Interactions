@@ -25,7 +25,7 @@ The repository includes detailed visualizations of the CCC analysis:
 
 This heatmap represents the averaged interaction scores across various PVAT cell types. It highlights the predominant communication pathways facilitated by these molecules, providing a visual summary of the interaction intensities.
 
-![Averaged Heatmap](data/analysis_results/averaged_heatmap.pdf "Averaged Heatmap of Ligand-Receptor Interactions")
+![Averaged Heatmap](data/analysis_results/averaged_heatmap.png "Averaged Heatmap of Ligand-Receptor Interactions")
 
 
 ## Conclusion
