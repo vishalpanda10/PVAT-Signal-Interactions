@@ -1,0 +1,579 @@
+,ligand_complex,receptor_complex,weight,source,target
+6,Col4a1,Itgb5,0.0,Adipocytes,Adipocytes
+7,Col4a1,Itga7,0.0,Adipocytes,Adipocytes
+8,Col4a1,Itgav,0.7441128798056774,Adipocytes,Adipocytes
+9,Col4a1,Itga1,0.7092542186512751,Adipocytes,Adipocytes
+10,Col4a1,Itgb1,0.6667222926163087,Adipocytes,Adipocytes
+68,Col4a2,Itgb5,0.6653289860229961,Adipocytes,Adipocytes
+69,Col4a2,Itga7,0.0,Adipocytes,Adipocytes
+70,Col4a2,Itgav,0.0,Adipocytes,Adipocytes
+71,Col4a2,Itga1,0.516070952617506,Adipocytes,Adipocytes
+72,Col4a2,Itgb1,0.485123668825156,Adipocytes,Adipocytes
+99,Col12a1,Itgb5,0.0,Adipocytes,Adipocytes
+100,Col12a1,Itga7,0.0,Adipocytes,Adipocytes
+101,Col12a1,Itgav,0.0,Adipocytes,Adipocytes
+102,Col12a1,Itga1,0.28246973027180855,Adipocytes,Adipocytes
+103,Col12a1,Itgb1,0.2655308367705709,Adipocytes,Adipocytes
+130,Col7a1,Itgb5,0.0,Adipocytes,Adipocytes
+131,Col7a1,Itga7,0.0,Adipocytes,Adipocytes
+132,Col7a1,Itgav,0.0,Adipocytes,Adipocytes
+133,Col7a1,Itga1,0.28246973027180855,Adipocytes,Adipocytes
+134,Col7a1,Itgb1,0.485123668825156,Adipocytes,Adipocytes
+7,Col4a2,Itga5,0.0,Adipocytes,ASPC
+20,Col4a2,Itgb5,0.6653289860229961,Adipocytes,ASPC
+21,Col4a2,Itga7,0.0,Adipocytes,ASPC
+22,Col4a2,Itgav,0.0,Adipocytes,ASPC
+23,Col4a2,Itga1,0.516070952617506,Adipocytes,ASPC
+24,Col4a2,Itgb1,0.485123668825156,Adipocytes,ASPC
+38,Col4a2,Itga9,0.0,Adipocytes,ASPC
+54,Col12a1,Itga5,0.0,Adipocytes,ASPC
+67,Col12a1,Itgb5,0.0,Adipocytes,ASPC
+68,Col12a1,Itga7,0.0,Adipocytes,ASPC
+69,Col12a1,Itgav,0.0,Adipocytes,ASPC
+70,Col12a1,Itga1,0.28246973027180855,Adipocytes,ASPC
+71,Col12a1,Itgb1,0.2655308367705709,Adipocytes,ASPC
+85,Col12a1,Itga9,0.0,Adipocytes,ASPC
+101,Col7a1,Itga5,0.0,Adipocytes,ASPC
+114,Col7a1,Itgb5,0.0,Adipocytes,ASPC
+115,Col7a1,Itga7,0.0,Adipocytes,ASPC
+116,Col7a1,Itgav,0.0,Adipocytes,ASPC
+117,Col7a1,Itga1,0.28246973027180855,Adipocytes,ASPC
+118,Col7a1,Itgb1,0.485123668825156,Adipocytes,ASPC
+132,Col7a1,Itga9,0.0,Adipocytes,ASPC
+148,Col4a1,Itga5,0.0,Adipocytes,ASPC
+161,Col4a1,Itgb5,0.0,Adipocytes,ASPC
+162,Col4a1,Itga7,0.0,Adipocytes,ASPC
+163,Col4a1,Itgav,0.7441128798056774,Adipocytes,ASPC
+164,Col4a1,Itga1,0.7092542186512751,Adipocytes,ASPC
+165,Col4a1,Itgb1,0.6667222926163087,Adipocytes,ASPC
+179,Col4a1,Itga9,0.0,Adipocytes,ASPC
+8,Col4a2,Itgb5,0.6653289860229961,Adipocytes,SMCs & Pericytes
+9,Col4a2,Itga7,0.0,Adipocytes,SMCs & Pericytes
+10,Col4a2,Itgav,0.0,Adipocytes,SMCs & Pericytes
+11,Col4a2,Itga1,0.516070952617506,Adipocytes,SMCs & Pericytes
+12,Col4a2,Itgb1,0.485123668825156,Adipocytes,SMCs & Pericytes
+46,Col12a1,Itgb5,0.0,Adipocytes,SMCs & Pericytes
+47,Col12a1,Itga7,0.0,Adipocytes,SMCs & Pericytes
+48,Col12a1,Itgav,0.0,Adipocytes,SMCs & Pericytes
+49,Col12a1,Itga1,0.28246973027180855,Adipocytes,SMCs & Pericytes
+50,Col12a1,Itgb1,0.2655308367705709,Adipocytes,SMCs & Pericytes
+84,Col7a1,Itgb5,0.0,Adipocytes,SMCs & Pericytes
+85,Col7a1,Itga7,0.0,Adipocytes,SMCs & Pericytes
+86,Col7a1,Itgav,0.0,Adipocytes,SMCs & Pericytes
+87,Col7a1,Itga1,0.28246973027180855,Adipocytes,SMCs & Pericytes
+88,Col7a1,Itgb1,0.485123668825156,Adipocytes,SMCs & Pericytes
+122,Col4a1,Itgb5,0.0,Adipocytes,SMCs & Pericytes
+123,Col4a1,Itga7,0.0,Adipocytes,SMCs & Pericytes
+124,Col4a1,Itgav,0.7441128798056774,Adipocytes,SMCs & Pericytes
+125,Col4a1,Itga1,0.7092542186512751,Adipocytes,SMCs & Pericytes
+126,Col4a1,Itgb1,0.6667222926163087,Adipocytes,SMCs & Pericytes
+14,Col4a2,Itga7,0.0,ASPC,Adipocytes
+18,Col4a2,Itgav,0.0,ASPC,Adipocytes
+19,Col4a2,Itga1,0.516070952617506,ASPC,Adipocytes
+20,Col4a2,Itgb1,0.485123668825156,ASPC,Adipocytes
+40,Col4a2,Itgb5,0.6653289860229961,ASPC,Adipocytes
+67,Col8a1,Itga7,0.0,ASPC,Adipocytes
+71,Col8a1,Itgav,0.0,ASPC,Adipocytes
+72,Col8a1,Itga1,0.7577238547064608,ASPC,Adipocytes
+73,Col8a1,Itgb1,0.4269523260121713,ASPC,Adipocytes
+93,Col8a1,Itgb5,0.0,ASPC,Adipocytes
+120,Col7a1,Itga7,0.0,ASPC,Adipocytes
+124,Col7a1,Itgav,0.0,ASPC,Adipocytes
+125,Col7a1,Itga1,0.28246973027180855,ASPC,Adipocytes
+126,Col7a1,Itgb1,0.485123668825156,ASPC,Adipocytes
+146,Col7a1,Itgb5,0.0,ASPC,Adipocytes
+173,Col6a6,Itga7,0.0,ASPC,Adipocytes
+177,Col6a6,Itgav,0.0,ASPC,Adipocytes
+178,Col6a6,Itga1,0.516070952617506,ASPC,Adipocytes
+179,Col6a6,Itgb1,0.485123668825156,ASPC,Adipocytes
+199,Col6a6,Itgb5,0.0,ASPC,Adipocytes
+226,Col6a5,Itga7,0.0,ASPC,Adipocytes
+230,Col6a5,Itgav,0.0,ASPC,Adipocytes
+231,Col6a5,Itga1,0.28246973027180855,ASPC,Adipocytes
+232,Col6a5,Itgb1,0.2655308367705709,ASPC,Adipocytes
+252,Col6a5,Itgb5,0.0,ASPC,Adipocytes
+279,Col6a2,Itga7,0.0,ASPC,Adipocytes
+283,Col6a2,Itgav,0.0,ASPC,Adipocytes
+284,Col6a2,Itga1,0.516070952617506,ASPC,Adipocytes
+285,Col6a2,Itgb1,0.485123668825156,ASPC,Adipocytes
+305,Col6a2,Itgb5,0.0,ASPC,Adipocytes
+332,Col6a1,Itga7,0.0,ASPC,Adipocytes
+336,Col6a1,Itgav,0.0,ASPC,Adipocytes
+337,Col6a1,Itga1,0.516070952617506,ASPC,Adipocytes
+338,Col6a1,Itgb1,0.485123668825156,ASPC,Adipocytes
+358,Col6a1,Itgb5,0.0,ASPC,Adipocytes
+385,Col5a3,Itga7,0.0,ASPC,Adipocytes
+389,Col5a3,Itgav,0.0,ASPC,Adipocytes
+390,Col5a3,Itga1,0.516070952617506,ASPC,Adipocytes
+391,Col5a3,Itgb1,0.485123668825156,ASPC,Adipocytes
+411,Col5a3,Itgb5,0.0,ASPC,Adipocytes
+438,Col5a2,Itga7,0.0,ASPC,Adipocytes
+442,Col5a2,Itgav,0.0,ASPC,Adipocytes
+443,Col5a2,Itga1,0.516070952617506,ASPC,Adipocytes
+444,Col5a2,Itgb1,0.485123668825156,ASPC,Adipocytes
+464,Col5a2,Itgb5,0.0,ASPC,Adipocytes
+491,Col5a1,Itga7,0.0,ASPC,Adipocytes
+495,Col5a1,Itgav,0.0,ASPC,Adipocytes
+496,Col5a1,Itga1,0.516070952617506,ASPC,Adipocytes
+497,Col5a1,Itgb1,0.485123668825156,ASPC,Adipocytes
+517,Col5a1,Itgb5,0.0,ASPC,Adipocytes
+544,Col3a1,Itga7,0.0,ASPC,Adipocytes
+548,Col3a1,Itgav,0.0,ASPC,Adipocytes
+549,Col3a1,Itga1,0.516070952617506,ASPC,Adipocytes
+550,Col3a1,Itgb1,0.485123668825156,ASPC,Adipocytes
+570,Col3a1,Itgb5,0.0,ASPC,Adipocytes
+597,Col12a1,Itga7,0.0,ASPC,Adipocytes
+601,Col12a1,Itgav,0.0,ASPC,Adipocytes
+602,Col12a1,Itga1,0.28246973027180855,ASPC,Adipocytes
+603,Col12a1,Itgb1,0.2655308367705709,ASPC,Adipocytes
+623,Col12a1,Itgb5,0.0,ASPC,Adipocytes
+650,Col14a1,Itga7,0.0,ASPC,Adipocytes
+654,Col14a1,Itgav,0.0,ASPC,Adipocytes
+655,Col14a1,Itga1,0.28246973027180855,ASPC,Adipocytes
+656,Col14a1,Itgb1,0.2655308367705709,ASPC,Adipocytes
+676,Col14a1,Itgb5,0.0,ASPC,Adipocytes
+703,Col4a5,Itga7,0.0,ASPC,Adipocytes
+707,Col4a5,Itgav,0.7441128798056774,ASPC,Adipocytes
+708,Col4a5,Itga1,0.516070952617506,ASPC,Adipocytes
+709,Col4a5,Itgb1,0.485123668825156,ASPC,Adipocytes
+729,Col4a5,Itgb5,0.0,ASPC,Adipocytes
+756,Col4a3,Itga7,0.0,ASPC,Adipocytes
+760,Col4a3,Itgav,0.9145819692057214,ASPC,Adipocytes
+761,Col4a3,Itga1,0.516070952617506,ASPC,Adipocytes
+762,Col4a3,Itgb1,0.5796827274952533,ASPC,Adipocytes
+782,Col4a3,Itgb5,0.0,ASPC,Adipocytes
+809,Col4a4,Itga7,0.0,ASPC,Adipocytes
+813,Col4a4,Itgav,0.9372326414371778,ASPC,Adipocytes
+814,Col4a4,Itga1,0.516070952617506,ASPC,Adipocytes
+815,Col4a4,Itgb1,0.485123668825156,ASPC,Adipocytes
+835,Col4a4,Itgb5,0.0,ASPC,Adipocytes
+862,Col1a1,Itga7,0.0,ASPC,Adipocytes
+866,Col1a1,Itgav,0.7788429943099111,ASPC,Adipocytes
+867,Col1a1,Itga1,0.516070952617506,ASPC,Adipocytes
+868,Col1a1,Itgb1,0.7794252765994095,ASPC,Adipocytes
+888,Col1a1,Itgb5,0.0,ASPC,Adipocytes
+915,Col4a1,Itga7,0.0,ASPC,Adipocytes
+919,Col4a1,Itgav,0.7441128798056774,ASPC,Adipocytes
+920,Col4a1,Itga1,0.7092542186512751,ASPC,Adipocytes
+921,Col4a1,Itgb1,0.6667222926163087,ASPC,Adipocytes
+941,Col4a1,Itgb5,0.0,ASPC,Adipocytes
+1111,Col1a1,Itga7,0.0,ASPC,ASPC
+1112,Col1a1,Itga9,0.5799262563834535,ASPC,ASPC
+1113,Col1a1,Itgb5,0.0,ASPC,ASPC
+1114,Col1a1,Itga5,0.5887684168827464,ASPC,ASPC
+1115,Col1a1,Itgav,0.7788429943099111,ASPC,ASPC
+1118,Col1a1,Itga1,0.516070952617506,ASPC,ASPC
+1119,Col1a1,Itgb1,0.7794252765994095,ASPC,ASPC
+1271,Col4a3,Itga7,0.0,ASPC,ASPC
+1272,Col4a3,Itga9,0.0,ASPC,ASPC
+1273,Col4a3,Itgb5,0.0,ASPC,ASPC
+1274,Col4a3,Itga5,0.0,ASPC,ASPC
+1275,Col4a3,Itgav,0.9145819692057214,ASPC,ASPC
+1278,Col4a3,Itga1,0.516070952617506,ASPC,ASPC
+1279,Col4a3,Itgb1,0.5796827274952533,ASPC,ASPC
+1351,Col4a4,Itga7,0.0,ASPC,ASPC
+1352,Col4a4,Itga9,0.0,ASPC,ASPC
+1353,Col4a4,Itgb5,0.0,ASPC,ASPC
+1354,Col4a4,Itga5,0.0,ASPC,ASPC
+1355,Col4a4,Itgav,0.9372326414371778,ASPC,ASPC
+1358,Col4a4,Itga1,0.516070952617506,ASPC,ASPC
+1359,Col4a4,Itgb1,0.485123668825156,ASPC,ASPC
+1431,Col4a5,Itga7,0.0,ASPC,ASPC
+1432,Col4a5,Itga9,0.0,ASPC,ASPC
+1433,Col4a5,Itgb5,0.0,ASPC,ASPC
+1434,Col4a5,Itga5,0.0,ASPC,ASPC
+1435,Col4a5,Itgav,0.7441128798056774,ASPC,ASPC
+1438,Col4a5,Itga1,0.516070952617506,ASPC,ASPC
+1439,Col4a5,Itgb1,0.485123668825156,ASPC,ASPC
+1591,Col4a1,Itga7,0.0,ASPC,ASPC
+1592,Col4a1,Itga9,0.0,ASPC,ASPC
+1593,Col4a1,Itgb5,0.0,ASPC,ASPC
+1594,Col4a1,Itga5,0.0,ASPC,ASPC
+1595,Col4a1,Itgav,0.7441128798056774,ASPC,ASPC
+1598,Col4a1,Itga1,0.7092542186512751,ASPC,ASPC
+1599,Col4a1,Itgb1,0.6667222926163087,ASPC,ASPC
+1831,Col8a1,Itga7,0.0,ASPC,ASPC
+1832,Col8a1,Itga9,0.0,ASPC,ASPC
+1833,Col8a1,Itgb5,0.0,ASPC,ASPC
+1834,Col8a1,Itga5,0.0,ASPC,ASPC
+1835,Col8a1,Itgav,0.0,ASPC,ASPC
+1838,Col8a1,Itga1,0.7577238547064608,ASPC,ASPC
+1839,Col8a1,Itgb1,0.4269523260121713,ASPC,ASPC
+1911,Col7a1,Itga7,0.0,ASPC,ASPC
+1912,Col7a1,Itga9,0.0,ASPC,ASPC
+1913,Col7a1,Itgb5,0.0,ASPC,ASPC
+1914,Col7a1,Itga5,0.0,ASPC,ASPC
+1915,Col7a1,Itgav,0.0,ASPC,ASPC
+1918,Col7a1,Itga1,0.28246973027180855,ASPC,ASPC
+1919,Col7a1,Itgb1,0.485123668825156,ASPC,ASPC
+1991,Col6a6,Itga7,0.0,ASPC,ASPC
+1992,Col6a6,Itga9,0.0,ASPC,ASPC
+1993,Col6a6,Itgb5,0.0,ASPC,ASPC
+1994,Col6a6,Itga5,0.0,ASPC,ASPC
+1995,Col6a6,Itgav,0.0,ASPC,ASPC
+1998,Col6a6,Itga1,0.516070952617506,ASPC,ASPC
+1999,Col6a6,Itgb1,0.485123668825156,ASPC,ASPC
+2071,Col6a5,Itga7,0.0,ASPC,ASPC
+2072,Col6a5,Itga9,0.0,ASPC,ASPC
+2073,Col6a5,Itgb5,0.0,ASPC,ASPC
+2074,Col6a5,Itga5,0.0,ASPC,ASPC
+2075,Col6a5,Itgav,0.0,ASPC,ASPC
+2078,Col6a5,Itga1,0.28246973027180855,ASPC,ASPC
+2079,Col6a5,Itgb1,0.2655308367705709,ASPC,ASPC
+2151,Col6a2,Itga7,0.0,ASPC,ASPC
+2152,Col6a2,Itga9,0.0,ASPC,ASPC
+2153,Col6a2,Itgb5,0.0,ASPC,ASPC
+2154,Col6a2,Itga5,0.0,ASPC,ASPC
+2155,Col6a2,Itgav,0.0,ASPC,ASPC
+2158,Col6a2,Itga1,0.516070952617506,ASPC,ASPC
+2159,Col6a2,Itgb1,0.485123668825156,ASPC,ASPC
+2231,Col6a1,Itga7,0.0,ASPC,ASPC
+2232,Col6a1,Itga9,0.0,ASPC,ASPC
+2233,Col6a1,Itgb5,0.0,ASPC,ASPC
+2234,Col6a1,Itga5,0.0,ASPC,ASPC
+2235,Col6a1,Itgav,0.0,ASPC,ASPC
+2238,Col6a1,Itga1,0.516070952617506,ASPC,ASPC
+2239,Col6a1,Itgb1,0.485123668825156,ASPC,ASPC
+2311,Col12a1,Itga7,0.0,ASPC,ASPC
+2312,Col12a1,Itga9,0.0,ASPC,ASPC
+2313,Col12a1,Itgb5,0.0,ASPC,ASPC
+2314,Col12a1,Itga5,0.0,ASPC,ASPC
+2315,Col12a1,Itgav,0.0,ASPC,ASPC
+2318,Col12a1,Itga1,0.28246973027180855,ASPC,ASPC
+2319,Col12a1,Itgb1,0.2655308367705709,ASPC,ASPC
+2391,Col14a1,Itga7,0.0,ASPC,ASPC
+2392,Col14a1,Itga9,0.0,ASPC,ASPC
+2393,Col14a1,Itgb5,0.0,ASPC,ASPC
+2394,Col14a1,Itga5,0.0,ASPC,ASPC
+2395,Col14a1,Itgav,0.0,ASPC,ASPC
+2398,Col14a1,Itga1,0.28246973027180855,ASPC,ASPC
+2399,Col14a1,Itgb1,0.2655308367705709,ASPC,ASPC
+2471,Col4a2,Itga7,0.0,ASPC,ASPC
+2472,Col4a2,Itga9,0.0,ASPC,ASPC
+2473,Col4a2,Itgb5,0.6653289860229961,ASPC,ASPC
+2474,Col4a2,Itga5,0.0,ASPC,ASPC
+2475,Col4a2,Itgav,0.0,ASPC,ASPC
+2478,Col4a2,Itga1,0.516070952617506,ASPC,ASPC
+2479,Col4a2,Itgb1,0.485123668825156,ASPC,ASPC
+2551,Col5a3,Itga7,0.0,ASPC,ASPC
+2552,Col5a3,Itga9,0.0,ASPC,ASPC
+2553,Col5a3,Itgb5,0.0,ASPC,ASPC
+2554,Col5a3,Itga5,0.0,ASPC,ASPC
+2555,Col5a3,Itgav,0.0,ASPC,ASPC
+2558,Col5a3,Itga1,0.516070952617506,ASPC,ASPC
+2559,Col5a3,Itgb1,0.485123668825156,ASPC,ASPC
+2631,Col5a2,Itga7,0.0,ASPC,ASPC
+2632,Col5a2,Itga9,0.0,ASPC,ASPC
+2633,Col5a2,Itgb5,0.0,ASPC,ASPC
+2634,Col5a2,Itga5,0.0,ASPC,ASPC
+2635,Col5a2,Itgav,0.0,ASPC,ASPC
+2638,Col5a2,Itga1,0.516070952617506,ASPC,ASPC
+2639,Col5a2,Itgb1,0.485123668825156,ASPC,ASPC
+2711,Col3a1,Itga7,0.0,ASPC,ASPC
+2712,Col3a1,Itga9,0.0,ASPC,ASPC
+2713,Col3a1,Itgb5,0.0,ASPC,ASPC
+2714,Col3a1,Itga5,0.0,ASPC,ASPC
+2715,Col3a1,Itgav,0.0,ASPC,ASPC
+2718,Col3a1,Itga1,0.516070952617506,ASPC,ASPC
+2719,Col3a1,Itgb1,0.485123668825156,ASPC,ASPC
+2791,Col5a1,Itga7,0.0,ASPC,ASPC
+2792,Col5a1,Itga9,0.0,ASPC,ASPC
+2793,Col5a1,Itgb5,0.0,ASPC,ASPC
+2794,Col5a1,Itga5,0.0,ASPC,ASPC
+2795,Col5a1,Itgav,0.0,ASPC,ASPC
+2798,Col5a1,Itga1,0.516070952617506,ASPC,ASPC
+2799,Col5a1,Itgb1,0.485123668825156,ASPC,ASPC
+3897,Col1a1,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+3898,Col1a1,Itgb1,0.7794252765994095,ASPC,SMCs & Pericytes
+3900,Col1a1,Itgav,0.7788429943099111,ASPC,SMCs & Pericytes
+3905,Col1a1,Itga7,0.0,ASPC,SMCs & Pericytes
+3927,Col1a1,Itgb5,0.0,ASPC,SMCs & Pericytes
+3965,Col4a4,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+3966,Col4a4,Itgb1,0.485123668825156,ASPC,SMCs & Pericytes
+3968,Col4a4,Itgav,0.9372326414371778,ASPC,SMCs & Pericytes
+3973,Col4a4,Itga7,0.0,ASPC,SMCs & Pericytes
+3995,Col4a4,Itgb5,0.0,ASPC,SMCs & Pericytes
+4033,Col4a5,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+4034,Col4a5,Itgb1,0.485123668825156,ASPC,SMCs & Pericytes
+4036,Col4a5,Itgav,0.7441128798056774,ASPC,SMCs & Pericytes
+4041,Col4a5,Itga7,0.0,ASPC,SMCs & Pericytes
+4063,Col4a5,Itgb5,0.0,ASPC,SMCs & Pericytes
+4101,Col4a1,Itga1,0.7092542186512751,ASPC,SMCs & Pericytes
+4102,Col4a1,Itgb1,0.6667222926163087,ASPC,SMCs & Pericytes
+4104,Col4a1,Itgav,0.7441128798056774,ASPC,SMCs & Pericytes
+4109,Col4a1,Itga7,0.0,ASPC,SMCs & Pericytes
+4131,Col4a1,Itgb5,0.0,ASPC,SMCs & Pericytes
+4169,Col4a3,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+4170,Col4a3,Itgb1,0.5796827274952533,ASPC,SMCs & Pericytes
+4172,Col4a3,Itgav,0.9145819692057214,ASPC,SMCs & Pericytes
+4177,Col4a3,Itga7,0.0,ASPC,SMCs & Pericytes
+4199,Col4a3,Itgb5,0.0,ASPC,SMCs & Pericytes
+4441,Col8a1,Itga1,0.7577238547064608,ASPC,SMCs & Pericytes
+4442,Col8a1,Itgb1,0.4269523260121713,ASPC,SMCs & Pericytes
+4444,Col8a1,Itgav,0.0,ASPC,SMCs & Pericytes
+4449,Col8a1,Itga7,0.0,ASPC,SMCs & Pericytes
+4471,Col8a1,Itgb5,0.0,ASPC,SMCs & Pericytes
+4509,Col7a1,Itga1,0.28246973027180855,ASPC,SMCs & Pericytes
+4510,Col7a1,Itgb1,0.485123668825156,ASPC,SMCs & Pericytes
+4512,Col7a1,Itgav,0.0,ASPC,SMCs & Pericytes
+4517,Col7a1,Itga7,0.0,ASPC,SMCs & Pericytes
+4539,Col7a1,Itgb5,0.0,ASPC,SMCs & Pericytes
+4577,Col6a6,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+4578,Col6a6,Itgb1,0.485123668825156,ASPC,SMCs & Pericytes
+4580,Col6a6,Itgav,0.0,ASPC,SMCs & Pericytes
+4585,Col6a6,Itga7,0.0,ASPC,SMCs & Pericytes
+4607,Col6a6,Itgb5,0.0,ASPC,SMCs & Pericytes
+4645,Col6a5,Itga1,0.28246973027180855,ASPC,SMCs & Pericytes
+4646,Col6a5,Itgb1,0.2655308367705709,ASPC,SMCs & Pericytes
+4648,Col6a5,Itgav,0.0,ASPC,SMCs & Pericytes
+4653,Col6a5,Itga7,0.0,ASPC,SMCs & Pericytes
+4675,Col6a5,Itgb5,0.0,ASPC,SMCs & Pericytes
+4713,Col6a2,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+4714,Col6a2,Itgb1,0.485123668825156,ASPC,SMCs & Pericytes
+4716,Col6a2,Itgav,0.0,ASPC,SMCs & Pericytes
+4721,Col6a2,Itga7,0.0,ASPC,SMCs & Pericytes
+4743,Col6a2,Itgb5,0.0,ASPC,SMCs & Pericytes
+4781,Col6a1,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+4782,Col6a1,Itgb1,0.485123668825156,ASPC,SMCs & Pericytes
+4784,Col6a1,Itgav,0.0,ASPC,SMCs & Pericytes
+4789,Col6a1,Itga7,0.0,ASPC,SMCs & Pericytes
+4811,Col6a1,Itgb5,0.0,ASPC,SMCs & Pericytes
+4849,Col12a1,Itga1,0.28246973027180855,ASPC,SMCs & Pericytes
+4850,Col12a1,Itgb1,0.2655308367705709,ASPC,SMCs & Pericytes
+4852,Col12a1,Itgav,0.0,ASPC,SMCs & Pericytes
+4857,Col12a1,Itga7,0.0,ASPC,SMCs & Pericytes
+4879,Col12a1,Itgb5,0.0,ASPC,SMCs & Pericytes
+4917,Col14a1,Itga1,0.28246973027180855,ASPC,SMCs & Pericytes
+4918,Col14a1,Itgb1,0.2655308367705709,ASPC,SMCs & Pericytes
+4920,Col14a1,Itgav,0.0,ASPC,SMCs & Pericytes
+4925,Col14a1,Itga7,0.0,ASPC,SMCs & Pericytes
+4947,Col14a1,Itgb5,0.0,ASPC,SMCs & Pericytes
+4985,Col4a2,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+4986,Col4a2,Itgb1,0.485123668825156,ASPC,SMCs & Pericytes
+4988,Col4a2,Itgav,0.0,ASPC,SMCs & Pericytes
+4993,Col4a2,Itga7,0.0,ASPC,SMCs & Pericytes
+5015,Col4a2,Itgb5,0.6653289860229961,ASPC,SMCs & Pericytes
+5053,Col5a3,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+5054,Col5a3,Itgb1,0.485123668825156,ASPC,SMCs & Pericytes
+5056,Col5a3,Itgav,0.0,ASPC,SMCs & Pericytes
+5061,Col5a3,Itga7,0.0,ASPC,SMCs & Pericytes
+5083,Col5a3,Itgb5,0.0,ASPC,SMCs & Pericytes
+5121,Col5a2,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+5122,Col5a2,Itgb1,0.485123668825156,ASPC,SMCs & Pericytes
+5124,Col5a2,Itgav,0.0,ASPC,SMCs & Pericytes
+5129,Col5a2,Itga7,0.0,ASPC,SMCs & Pericytes
+5151,Col5a2,Itgb5,0.0,ASPC,SMCs & Pericytes
+5189,Col3a1,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+5190,Col3a1,Itgb1,0.485123668825156,ASPC,SMCs & Pericytes
+5192,Col3a1,Itgav,0.0,ASPC,SMCs & Pericytes
+5197,Col3a1,Itga7,0.0,ASPC,SMCs & Pericytes
+5219,Col3a1,Itgb5,0.0,ASPC,SMCs & Pericytes
+5257,Col5a1,Itga1,0.516070952617506,ASPC,SMCs & Pericytes
+5258,Col5a1,Itgb1,0.485123668825156,ASPC,SMCs & Pericytes
+5260,Col5a1,Itgav,0.0,ASPC,SMCs & Pericytes
+5265,Col5a1,Itga7,0.0,ASPC,SMCs & Pericytes
+5287,Col5a1,Itgb5,0.0,ASPC,SMCs & Pericytes
+1374,Col4a2,Itga7,0.0,SMCs & Pericytes,Adipocytes
+1386,Col4a2,Itga1,0.516070952617506,SMCs & Pericytes,Adipocytes
+1387,Col4a2,Itgb1,0.485123668825156,SMCs & Pericytes,Adipocytes
+1388,Col4a2,Itgav,0.0,SMCs & Pericytes,Adipocytes
+1389,Col4a2,Itgb5,0.6653289860229961,SMCs & Pericytes,Adipocytes
+1418,Col18a1,Itga7,0.0,SMCs & Pericytes,Adipocytes
+1430,Col18a1,Itga1,0.28246973027180855,SMCs & Pericytes,Adipocytes
+1431,Col18a1,Itgb1,0.5796827274952533,SMCs & Pericytes,Adipocytes
+1432,Col18a1,Itgav,0.0,SMCs & Pericytes,Adipocytes
+1433,Col18a1,Itgb5,0.0,SMCs & Pericytes,Adipocytes
+1462,Col8a1,Itga7,0.0,SMCs & Pericytes,Adipocytes
+1474,Col8a1,Itga1,0.7577238547064608,SMCs & Pericytes,Adipocytes
+1475,Col8a1,Itgb1,0.4269523260121713,SMCs & Pericytes,Adipocytes
+1476,Col8a1,Itgav,0.0,SMCs & Pericytes,Adipocytes
+1477,Col8a1,Itgb5,0.0,SMCs & Pericytes,Adipocytes
+1506,Col7a1,Itga7,0.0,SMCs & Pericytes,Adipocytes
+1518,Col7a1,Itga1,0.28246973027180855,SMCs & Pericytes,Adipocytes
+1519,Col7a1,Itgb1,0.485123668825156,SMCs & Pericytes,Adipocytes
+1520,Col7a1,Itgav,0.0,SMCs & Pericytes,Adipocytes
+1521,Col7a1,Itgb5,0.0,SMCs & Pericytes,Adipocytes
+1550,Col6a6,Itga7,0.0,SMCs & Pericytes,Adipocytes
+1562,Col6a6,Itga1,0.516070952617506,SMCs & Pericytes,Adipocytes
+1563,Col6a6,Itgb1,0.485123668825156,SMCs & Pericytes,Adipocytes
+1564,Col6a6,Itgav,0.0,SMCs & Pericytes,Adipocytes
+1565,Col6a6,Itgb5,0.0,SMCs & Pericytes,Adipocytes
+1594,Col6a2,Itga7,0.0,SMCs & Pericytes,Adipocytes
+1606,Col6a2,Itga1,0.516070952617506,SMCs & Pericytes,Adipocytes
+1607,Col6a2,Itgb1,0.485123668825156,SMCs & Pericytes,Adipocytes
+1608,Col6a2,Itgav,0.0,SMCs & Pericytes,Adipocytes
+1609,Col6a2,Itgb5,0.0,SMCs & Pericytes,Adipocytes
+1638,Col5a3,Itga7,0.0,SMCs & Pericytes,Adipocytes
+1650,Col5a3,Itga1,0.516070952617506,SMCs & Pericytes,Adipocytes
+1651,Col5a3,Itgb1,0.485123668825156,SMCs & Pericytes,Adipocytes
+1652,Col5a3,Itgav,0.0,SMCs & Pericytes,Adipocytes
+1653,Col5a3,Itgb5,0.0,SMCs & Pericytes,Adipocytes
+1682,Col5a2,Itga7,0.0,SMCs & Pericytes,Adipocytes
+1694,Col5a2,Itga1,0.516070952617506,SMCs & Pericytes,Adipocytes
+1695,Col5a2,Itgb1,0.485123668825156,SMCs & Pericytes,Adipocytes
+1696,Col5a2,Itgav,0.0,SMCs & Pericytes,Adipocytes
+1697,Col5a2,Itgb5,0.0,SMCs & Pericytes,Adipocytes
+1726,Col5a1,Itga7,0.0,SMCs & Pericytes,Adipocytes
+1738,Col5a1,Itga1,0.516070952617506,SMCs & Pericytes,Adipocytes
+1739,Col5a1,Itgb1,0.485123668825156,SMCs & Pericytes,Adipocytes
+1740,Col5a1,Itgav,0.0,SMCs & Pericytes,Adipocytes
+1741,Col5a1,Itgb5,0.0,SMCs & Pericytes,Adipocytes
+1770,Col12a1,Itga7,0.0,SMCs & Pericytes,Adipocytes
+1782,Col12a1,Itga1,0.28246973027180855,SMCs & Pericytes,Adipocytes
+1783,Col12a1,Itgb1,0.2655308367705709,SMCs & Pericytes,Adipocytes
+1784,Col12a1,Itgav,0.0,SMCs & Pericytes,Adipocytes
+1785,Col12a1,Itgb5,0.0,SMCs & Pericytes,Adipocytes
+1814,Col3a1,Itga7,0.0,SMCs & Pericytes,Adipocytes
+1826,Col3a1,Itga1,0.516070952617506,SMCs & Pericytes,Adipocytes
+1827,Col3a1,Itgb1,0.485123668825156,SMCs & Pericytes,Adipocytes
+1828,Col3a1,Itgav,0.0,SMCs & Pericytes,Adipocytes
+1829,Col3a1,Itgb5,0.0,SMCs & Pericytes,Adipocytes
+2694,Col4a1,Itga7,0.0,SMCs & Pericytes,Adipocytes
+2706,Col4a1,Itga1,0.7092542186512751,SMCs & Pericytes,Adipocytes
+2707,Col4a1,Itgb1,0.6667222926163087,SMCs & Pericytes,Adipocytes
+2708,Col4a1,Itgav,0.7441128798056774,SMCs & Pericytes,Adipocytes
+2709,Col4a1,Itgb5,0.0,SMCs & Pericytes,Adipocytes
+15,Col8a1,Itga5,0.0,SMCs & Pericytes,ASPC
+21,Col8a1,Itga9,0.0,SMCs & Pericytes,ASPC
+24,Col8a1,Itga7,0.0,SMCs & Pericytes,ASPC
+25,Col8a1,Itgav,0.0,SMCs & Pericytes,ASPC
+26,Col8a1,Itgb5,0.0,SMCs & Pericytes,ASPC
+28,Col8a1,Itga1,0.7577238547064608,SMCs & Pericytes,ASPC
+29,Col8a1,Itgb1,0.4269523260121713,SMCs & Pericytes,ASPC
+80,Col7a1,Itga5,0.0,SMCs & Pericytes,ASPC
+86,Col7a1,Itga9,0.0,SMCs & Pericytes,ASPC
+89,Col7a1,Itga7,0.0,SMCs & Pericytes,ASPC
+90,Col7a1,Itgav,0.0,SMCs & Pericytes,ASPC
+91,Col7a1,Itgb5,0.0,SMCs & Pericytes,ASPC
+93,Col7a1,Itga1,0.28246973027180855,SMCs & Pericytes,ASPC
+94,Col7a1,Itgb1,0.485123668825156,SMCs & Pericytes,ASPC
+145,Col6a6,Itga5,0.0,SMCs & Pericytes,ASPC
+151,Col6a6,Itga9,0.0,SMCs & Pericytes,ASPC
+154,Col6a6,Itga7,0.0,SMCs & Pericytes,ASPC
+155,Col6a6,Itgav,0.0,SMCs & Pericytes,ASPC
+156,Col6a6,Itgb5,0.0,SMCs & Pericytes,ASPC
+158,Col6a6,Itga1,0.516070952617506,SMCs & Pericytes,ASPC
+159,Col6a6,Itgb1,0.485123668825156,SMCs & Pericytes,ASPC
+210,Col12a1,Itga5,0.0,SMCs & Pericytes,ASPC
+216,Col12a1,Itga9,0.0,SMCs & Pericytes,ASPC
+219,Col12a1,Itga7,0.0,SMCs & Pericytes,ASPC
+220,Col12a1,Itgav,0.0,SMCs & Pericytes,ASPC
+221,Col12a1,Itgb5,0.0,SMCs & Pericytes,ASPC
+223,Col12a1,Itga1,0.28246973027180855,SMCs & Pericytes,ASPC
+224,Col12a1,Itgb1,0.2655308367705709,SMCs & Pericytes,ASPC
+275,Col6a2,Itga5,0.0,SMCs & Pericytes,ASPC
+281,Col6a2,Itga9,0.0,SMCs & Pericytes,ASPC
+284,Col6a2,Itga7,0.0,SMCs & Pericytes,ASPC
+285,Col6a2,Itgav,0.0,SMCs & Pericytes,ASPC
+286,Col6a2,Itgb5,0.0,SMCs & Pericytes,ASPC
+288,Col6a2,Itga1,0.516070952617506,SMCs & Pericytes,ASPC
+289,Col6a2,Itgb1,0.485123668825156,SMCs & Pericytes,ASPC
+340,Col4a2,Itga5,0.0,SMCs & Pericytes,ASPC
+346,Col4a2,Itga9,0.0,SMCs & Pericytes,ASPC
+349,Col4a2,Itga7,0.0,SMCs & Pericytes,ASPC
+350,Col4a2,Itgav,0.0,SMCs & Pericytes,ASPC
+351,Col4a2,Itgb5,0.6653289860229961,SMCs & Pericytes,ASPC
+353,Col4a2,Itga1,0.516070952617506,SMCs & Pericytes,ASPC
+354,Col4a2,Itgb1,0.485123668825156,SMCs & Pericytes,ASPC
+405,Col5a3,Itga5,0.0,SMCs & Pericytes,ASPC
+411,Col5a3,Itga9,0.0,SMCs & Pericytes,ASPC
+414,Col5a3,Itga7,0.0,SMCs & Pericytes,ASPC
+415,Col5a3,Itgav,0.0,SMCs & Pericytes,ASPC
+416,Col5a3,Itgb5,0.0,SMCs & Pericytes,ASPC
+418,Col5a3,Itga1,0.516070952617506,SMCs & Pericytes,ASPC
+419,Col5a3,Itgb1,0.485123668825156,SMCs & Pericytes,ASPC
+470,Col5a2,Itga5,0.0,SMCs & Pericytes,ASPC
+476,Col5a2,Itga9,0.0,SMCs & Pericytes,ASPC
+479,Col5a2,Itga7,0.0,SMCs & Pericytes,ASPC
+480,Col5a2,Itgav,0.0,SMCs & Pericytes,ASPC
+481,Col5a2,Itgb5,0.0,SMCs & Pericytes,ASPC
+483,Col5a2,Itga1,0.516070952617506,SMCs & Pericytes,ASPC
+484,Col5a2,Itgb1,0.485123668825156,SMCs & Pericytes,ASPC
+535,Col3a1,Itga5,0.0,SMCs & Pericytes,ASPC
+541,Col3a1,Itga9,0.0,SMCs & Pericytes,ASPC
+544,Col3a1,Itga7,0.0,SMCs & Pericytes,ASPC
+545,Col3a1,Itgav,0.0,SMCs & Pericytes,ASPC
+546,Col3a1,Itgb5,0.0,SMCs & Pericytes,ASPC
+548,Col3a1,Itga1,0.516070952617506,SMCs & Pericytes,ASPC
+549,Col3a1,Itgb1,0.485123668825156,SMCs & Pericytes,ASPC
+600,Col5a1,Itga5,0.0,SMCs & Pericytes,ASPC
+606,Col5a1,Itga9,0.0,SMCs & Pericytes,ASPC
+609,Col5a1,Itga7,0.0,SMCs & Pericytes,ASPC
+610,Col5a1,Itgav,0.0,SMCs & Pericytes,ASPC
+611,Col5a1,Itgb5,0.0,SMCs & Pericytes,ASPC
+613,Col5a1,Itga1,0.516070952617506,SMCs & Pericytes,ASPC
+614,Col5a1,Itgb1,0.485123668825156,SMCs & Pericytes,ASPC
+665,Col18a1,Itga5,0.6898340190783134,SMCs & Pericytes,ASPC
+671,Col18a1,Itga9,0.0,SMCs & Pericytes,ASPC
+674,Col18a1,Itga7,0.0,SMCs & Pericytes,ASPC
+675,Col18a1,Itgav,0.0,SMCs & Pericytes,ASPC
+676,Col18a1,Itgb5,0.0,SMCs & Pericytes,ASPC
+678,Col18a1,Itga1,0.28246973027180855,SMCs & Pericytes,ASPC
+679,Col18a1,Itgb1,0.5796827274952533,SMCs & Pericytes,ASPC
+925,Col4a1,Itga5,0.0,SMCs & Pericytes,ASPC
+931,Col4a1,Itga9,0.0,SMCs & Pericytes,ASPC
+934,Col4a1,Itga7,0.0,SMCs & Pericytes,ASPC
+935,Col4a1,Itgav,0.7441128798056774,SMCs & Pericytes,ASPC
+936,Col4a1,Itgb5,0.0,SMCs & Pericytes,ASPC
+938,Col4a1,Itga1,0.7092542186512751,SMCs & Pericytes,ASPC
+939,Col4a1,Itgb1,0.6667222926163087,SMCs & Pericytes,ASPC
+2235,Col4a2,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+2237,Col4a2,Itga1,0.516070952617506,SMCs & Pericytes,SMCs & Pericytes
+2238,Col4a2,Itgb1,0.485123668825156,SMCs & Pericytes,SMCs & Pericytes
+2253,Col4a2,Itgav,0.0,SMCs & Pericytes,SMCs & Pericytes
+2254,Col4a2,Itgb5,0.6653289860229961,SMCs & Pericytes,SMCs & Pericytes
+2292,Col5a3,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+2294,Col5a3,Itga1,0.516070952617506,SMCs & Pericytes,SMCs & Pericytes
+2295,Col5a3,Itgb1,0.485123668825156,SMCs & Pericytes,SMCs & Pericytes
+2310,Col5a3,Itgav,0.0,SMCs & Pericytes,SMCs & Pericytes
+2311,Col5a3,Itgb5,0.0,SMCs & Pericytes,SMCs & Pericytes
+2349,Col5a2,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+2351,Col5a2,Itga1,0.516070952617506,SMCs & Pericytes,SMCs & Pericytes
+2352,Col5a2,Itgb1,0.485123668825156,SMCs & Pericytes,SMCs & Pericytes
+2367,Col5a2,Itgav,0.0,SMCs & Pericytes,SMCs & Pericytes
+2368,Col5a2,Itgb5,0.0,SMCs & Pericytes,SMCs & Pericytes
+2406,Col3a1,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+2408,Col3a1,Itga1,0.516070952617506,SMCs & Pericytes,SMCs & Pericytes
+2409,Col3a1,Itgb1,0.485123668825156,SMCs & Pericytes,SMCs & Pericytes
+2424,Col3a1,Itgav,0.0,SMCs & Pericytes,SMCs & Pericytes
+2425,Col3a1,Itgb5,0.0,SMCs & Pericytes,SMCs & Pericytes
+2463,Col5a1,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+2465,Col5a1,Itga1,0.516070952617506,SMCs & Pericytes,SMCs & Pericytes
+2466,Col5a1,Itgb1,0.485123668825156,SMCs & Pericytes,SMCs & Pericytes
+2481,Col5a1,Itgav,0.0,SMCs & Pericytes,SMCs & Pericytes
+2482,Col5a1,Itgb5,0.0,SMCs & Pericytes,SMCs & Pericytes
+2577,Col18a1,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+2579,Col18a1,Itga1,0.28246973027180855,SMCs & Pericytes,SMCs & Pericytes
+2580,Col18a1,Itgb1,0.5796827274952533,SMCs & Pericytes,SMCs & Pericytes
+2595,Col18a1,Itgav,0.0,SMCs & Pericytes,SMCs & Pericytes
+2596,Col18a1,Itgb5,0.0,SMCs & Pericytes,SMCs & Pericytes
+2634,Col8a1,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+2636,Col8a1,Itga1,0.7577238547064608,SMCs & Pericytes,SMCs & Pericytes
+2637,Col8a1,Itgb1,0.4269523260121713,SMCs & Pericytes,SMCs & Pericytes
+2652,Col8a1,Itgav,0.0,SMCs & Pericytes,SMCs & Pericytes
+2653,Col8a1,Itgb5,0.0,SMCs & Pericytes,SMCs & Pericytes
+2691,Col7a1,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+2693,Col7a1,Itga1,0.28246973027180855,SMCs & Pericytes,SMCs & Pericytes
+2694,Col7a1,Itgb1,0.485123668825156,SMCs & Pericytes,SMCs & Pericytes
+2709,Col7a1,Itgav,0.0,SMCs & Pericytes,SMCs & Pericytes
+2710,Col7a1,Itgb5,0.0,SMCs & Pericytes,SMCs & Pericytes
+2748,Col6a6,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+2750,Col6a6,Itga1,0.516070952617506,SMCs & Pericytes,SMCs & Pericytes
+2751,Col6a6,Itgb1,0.485123668825156,SMCs & Pericytes,SMCs & Pericytes
+2766,Col6a6,Itgav,0.0,SMCs & Pericytes,SMCs & Pericytes
+2767,Col6a6,Itgb5,0.0,SMCs & Pericytes,SMCs & Pericytes
+2805,Col12a1,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+2807,Col12a1,Itga1,0.28246973027180855,SMCs & Pericytes,SMCs & Pericytes
+2808,Col12a1,Itgb1,0.2655308367705709,SMCs & Pericytes,SMCs & Pericytes
+2823,Col12a1,Itgav,0.0,SMCs & Pericytes,SMCs & Pericytes
+2824,Col12a1,Itgb5,0.0,SMCs & Pericytes,SMCs & Pericytes
+2862,Col6a2,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+2864,Col6a2,Itga1,0.516070952617506,SMCs & Pericytes,SMCs & Pericytes
+2865,Col6a2,Itgb1,0.485123668825156,SMCs & Pericytes,SMCs & Pericytes
+2880,Col6a2,Itgav,0.0,SMCs & Pericytes,SMCs & Pericytes
+2881,Col6a2,Itgb5,0.0,SMCs & Pericytes,SMCs & Pericytes
+3717,Col4a1,Itga7,0.0,SMCs & Pericytes,SMCs & Pericytes
+3719,Col4a1,Itga1,0.7092542186512751,SMCs & Pericytes,SMCs & Pericytes
+3720,Col4a1,Itgb1,0.6667222926163087,SMCs & Pericytes,SMCs & Pericytes
+3735,Col4a1,Itgav,0.7441128798056774,SMCs & Pericytes,SMCs & Pericytes
+3736,Col4a1,Itgb5,0.0,SMCs & Pericytes,SMCs & Pericytes
