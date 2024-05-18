@@ -31,3 +31,23 @@ This heatmap represents the averaged interaction scores across various PVAT cell
 ## Conclusion
 Our analysis underscores the complex nature of cell-cell communication in PVAT, with a specific focus on the mechanistic roles of collagen and integrin. This detailed examination aids in understanding the cellular interactions that contribute to the structural and functional integrity of PVAT.
 
+## Installation
+
+To run the analyses contained in this repository, you must first install the required dependencies. 
+
+### Python
+Install the Python dependencies by running:
+```bash
+pip install -r requirements.txt
+```
+
+### R
+```R
+source('install.R')
+```
+
+## Contact
+
+If you encounter any issues or have questions regarding the repository content or setup, please feel free to reach out:
+
+- **Email:** [vishalpanda10@gmail.com](mailto:vishalpanda10@gmail.com)
